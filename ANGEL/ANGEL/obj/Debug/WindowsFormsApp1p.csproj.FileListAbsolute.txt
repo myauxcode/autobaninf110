@@ -1,0 +1,9 @@
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1p\obj\Debug\WindowsFormsApp1p.csprojResolveAssemblyReference.cache
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1p\obj\Debug\WindowsFormsApp1p.Form1.resources
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1p\obj\Debug\WindowsFormsApp1p.Properties.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1p\obj\Debug\WindowsFormsApp1p.csproj.GenerateResource.Cache
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1p\bin\Debug\WindowsFormsApp1p.exe.config
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1p\bin\Debug\WindowsFormsApp1p.exe
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1p\bin\Debug\WindowsFormsApp1p.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1p\obj\Debug\WindowsFormsApp1p.exe
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1p\obj\Debug\WindowsFormsApp1p.pdb
