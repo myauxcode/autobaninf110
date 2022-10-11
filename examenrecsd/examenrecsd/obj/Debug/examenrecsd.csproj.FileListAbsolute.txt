@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\EXAMEN REC SD SERIES 2 2022\examenrecsd\examenrecsd\bin\Debug\examenrecsd.exe.config
+C:\Users\PC\Desktop\EXAMEN REC SD SERIES 2 2022\examenrecsd\examenrecsd\bin\Debug\examenrecsd.exe
+C:\Users\PC\Desktop\EXAMEN REC SD SERIES 2 2022\examenrecsd\examenrecsd\bin\Debug\examenrecsd.pdb
+C:\Users\PC\Desktop\EXAMEN REC SD SERIES 2 2022\examenrecsd\examenrecsd\obj\Debug\examenrecsd.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\EXAMEN REC SD SERIES 2 2022\examenrecsd\examenrecsd\obj\Debug\examenrecsd.Form1.resources
+C:\Users\PC\Desktop\EXAMEN REC SD SERIES 2 2022\examenrecsd\examenrecsd\obj\Debug\examenrecsd.Properties.Resources.resources
+C:\Users\PC\Desktop\EXAMEN REC SD SERIES 2 2022\examenrecsd\examenrecsd\obj\Debug\examenrecsd.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\EXAMEN REC SD SERIES 2 2022\examenrecsd\examenrecsd\obj\Debug\examenrecsd.exe
+C:\Users\PC\Desktop\EXAMEN REC SD SERIES 2 2022\examenrecsd\examenrecsd\obj\Debug\examenrecsd.pdb
